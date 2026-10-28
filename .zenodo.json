@@ -1,0 +1,24 @@
+{
+  "title": "NERC FSF Calibration and Characterisation Protocols",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "<p>Laboratory protocols and processing code used by the NERC Field Spectroscopy Facility (FSF) to calibrate and characterise optical instrumentation for environmental science. Each protocol describes the test setup, measurement procedure, data processing, and uncertainty analysis for a class of instrument, and is accompanied by open-source code implementing its data processing.</p><p>Current protocols: Calibration and Characterisation of Hyperspectral Imagers.</p>",
+  "creators": [
+    {
+      "name": "Ramsay, Robbie",
+      "affiliation": "NERC Field Spectroscopy Facility, University of Edinburgh",
+      "orcid": "0000-0002-3121-2562"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "calibration",
+    "characterisation",
+    "hyperspectral imaging",
+    "spectroscopy",
+    "radiometry",
+    "uncertainty",
+    "IEEE P4001"
+  ]
+}

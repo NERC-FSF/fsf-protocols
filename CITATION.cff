@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these protocols or code, please cite them as below."
+title: "NERC FSF Calibration and Characterisation Protocols"
+abstract: >-
+  Laboratory protocols and processing code used by the NERC Field
+  Spectroscopy Facility to calibrate and characterise optical
+  instrumentation for environmental science.
+type: software
+authors:
+  - family-names: Ramsay
+    given-names: Robbie
+    orcid: "https://orcid.org/0000-0002-3121-2562"
+    affiliation: "NERC Field Spectroscopy Facility, University of Edinburgh"
+repository-code: "https://github.com/NERC-FSF/fsf-protocols"
+url: "https://fsf.nerc.ac.uk"
+license: CC-BY-4.0
+keywords:
+  - calibration
+  - characterisation
+  - hyperspectral imaging
+  - spectroscopy
+  - radiometry
+  - uncertainty
