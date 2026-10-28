@@ -8,7 +8,7 @@ Laboratory protocols and processing code used by the [NERC Field Spectroscopy Fa
 
 Each protocol describes the test setup, measurement procedure, data processing, and uncertainty analysis for a class of instrument, illustrated with a worked example on FSF equipment. Each is accompanied by open-source code that implements its data processing.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23741425.svg)](https://doi.org/10.5281/zenodo.23741425)
 
 ## Protocols
 
