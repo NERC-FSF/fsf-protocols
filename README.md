@@ -15,6 +15,7 @@ Each protocol describes the test setup, measurement procedure, data processing, 
 | Protocol | Instruments | Document | Code | Status |
 |---|---|---|---|---|
 | [Calibration and Characterisation of Hyperspectral Imagers](protocols/hyperspectral-imagers) | Pushbroom hyperspectral imagers, VNIR–SWIR (350–2500 nm) | [PDF](protocols/hyperspectral-imagers/document/main.pdf) | [Python](protocols/hyperspectral-imagers/code) | Released, Public |
+| [Protocol for Laboratory Based Reflectance Measurements](protocols/reflectance-measurements) | Optical Calibration Laboratory | [PDF](protocols/reflectance-measurements/document/main.pdf) | — | Released, Public |
 | Calibration and Characterisation of Field Spectrometer Suite | Full range field spectrometers | — | — | In Development, Private |
 | Calibration and Characterisation of Bio-Optical Marine Suite | Hyperspectral ocean colour radiometers | — | — | In Development, Private |
 | Calibration and Characterisation of Solar Induced Fluorescence Suite | SIF spectrometers and imagers | — | — | In Development, Private |
